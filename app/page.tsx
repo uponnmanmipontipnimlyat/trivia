@@ -9,7 +9,7 @@ export default function Home() {
 
     {/* Logo */}
         <Image 
-          src="/logo.png"       // path inside public/
+          src="/logo.jpg"       // path inside public/
           alt=""
           width={120}           // adjust size
           height={120}
