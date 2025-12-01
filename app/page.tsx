@@ -10,7 +10,7 @@ export default function Home() {
     {/* Logo */}
         <Image 
           src="/logo.png"       // path inside public/
-          alt="Tamaras Fairview School Logo"
+          alt=""
           width={120}           // adjust size
           height={120}
           className="mb-6"
